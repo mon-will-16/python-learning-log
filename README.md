@@ -3,7 +3,9 @@
 Daily practice exercises and code snippets from my Python learning journey.
 
 **Purpose:** Track daily progress through Phase 1 - Python Foundations
+
 **Started:** February 2026
+
 **Course:** Modern Python 3 Bootcamp (Colt Steele)
 
 ## Structure
