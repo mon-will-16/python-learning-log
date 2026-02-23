@@ -9,7 +9,7 @@ Daily practice exercises and code snippets from my Python learning journey.
 **Course:** Modern Python 3 Bootcamp (Colt Steele)
 
 ## Structure
-Each file is named by topic and date (e.g., `variables_feb20.py`)
+Each file is named by section and topic (e.g., `s7_1_variables.py`)
 
 ## Progress
 - [ ] Module 1: Python Setup & Basic Syntax (Weeks 1-3)
