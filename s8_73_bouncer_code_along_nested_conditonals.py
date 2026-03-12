@@ -1,6 +1,6 @@
-# Section 8 | Lesson 73 | Bouncer Code-Alogn and Nested Conditionals
+# Section 8 | Lesson 73 | Bouncer Code-Along and Nested Conditionals
 # Course: Modern Python 3 Bootcamp - Colt Steele
-# Topic:    Bounder-Code-Along and Nested Conditionals
+# Topic:    Bouncer-Code-Along and Nested Conditionals
 
 # --- Practice Code ---
 # ask for age
