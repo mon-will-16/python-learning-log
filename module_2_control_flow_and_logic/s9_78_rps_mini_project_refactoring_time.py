@@ -1,6 +1,6 @@
-# Section 9 | Lesson 77 | RPS Mini Project Basic Version Solution
+# Section 9 | Lesson 78 | RPS Mini Project: Refactoring Time
 # Course: Modern Python 3 Bootcamp - Colt Steele
-# Topic:    RPS Mini Project Basic Version Solution
+# Topic:    RPS Mini Project: Refactoring Time
 
 # --- Practice Code ---
 print("Rock...")
