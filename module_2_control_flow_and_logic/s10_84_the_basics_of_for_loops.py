@@ -1,5 +1,5 @@
 # Section 10 | Lesson 84 | The Basics of For Loops
-# # Course: Modern Python 3 Bootcamp - Colt Steele
+# Course: Modern Python 3 Bootcamp - Colt Steele
 # Topic:    The Basics of For Loops
 
 #--- Practice Code ---

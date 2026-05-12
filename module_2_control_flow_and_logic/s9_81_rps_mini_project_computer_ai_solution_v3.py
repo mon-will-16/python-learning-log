@@ -1,5 +1,5 @@
 # Section 9 | Lesson 81 | RPS Mini Project: Computer AI Solution 
-# # Course: Modern Python 3 Bootcamp - Colt Steele
+# Course: Modern Python 3 Bootcamp - Colt Steele
 # Topic:    RPS Mini Project: Computer AI Solution
 
 #--- Practice Code ---

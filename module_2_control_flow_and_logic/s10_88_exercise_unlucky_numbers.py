@@ -1,5 +1,5 @@
 # Section 10 | Lesson 88 | Exercise: Unlucky Numbers
-# # Course: Modern Python 3 Bootcamp - Colt Steele
+# Course: Modern Python 3 Bootcamp - Colt Steele
 # Topic:    Exercise: Unlucky Numbers
 
 #--- Practice Code ---

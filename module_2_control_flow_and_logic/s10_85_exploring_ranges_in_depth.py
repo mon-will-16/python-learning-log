@@ -1,5 +1,5 @@
 # Section 10 | Lesson 85 | Exploring Ranges in Depth
-# # Course: Modern Python 3 Bootcamp - Colt Steele
+# Course: Modern Python 3 Bootcamp - Colt Steele
 # Topic:    Exploring Ranges in Depth
 
 #--- Practice Code ---

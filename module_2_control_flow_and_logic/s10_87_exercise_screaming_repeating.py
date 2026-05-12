@@ -1,5 +1,5 @@
 # Section 10 | Lesson 87 | Exercise: Screaming Repeating
-# # Course: Modern Python 3 Bootcamp - Colt Steele
+# Course: Modern Python 3 Bootcamp - Colt Steele
 # Topic:    Exercise: Screaming Repeating
 
 #--- Practice Code ---

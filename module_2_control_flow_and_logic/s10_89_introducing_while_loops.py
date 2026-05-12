@@ -1,5 +1,5 @@
 # Section 10 | Lesson 89 | Introducing While Loops
-# # Course: Modern Python 3 Bootcamp - Colt Steele
+# Course: Modern Python 3 Bootcamp - Colt Steele
 # Topic:    Introducing While Loops
 
 #--- Practice Code ---
